@@ -391,7 +391,7 @@ function App() {
       <section className="testimonials section-pad" id="testimonials">
         <div className="testimonial-line" />
         <blockquote className="reveal">
-          "Varda felt like leaving the city without losing its ease. Our family wedding weekend was
+          "resortfelt like leaving the city without losing its ease. Our family wedding weekend was
           intimate, elegant, and completely cared for."
         </blockquote>
         <p className="reveal">Aarav and Meera, private family celebration</p>
