@@ -406,7 +406,7 @@ function App() {
             and a tailored experience plan.
           </p>
           <div className="contact-lines">
-            <span>reservations@vardaresort.com</span>
+            <span>reservations@resortort.com</span>
             <span>+91 98765 43210</span>
           </div>
         </div>
